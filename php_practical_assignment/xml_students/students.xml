@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student><name>Asha Patel</name><email>asha@example.com</email><age>20</age></student>
+  <student><name>Ravi Shah</name><email>ravi@example.com</email><age>21</age></student>
+  <student><name>Meera Joshi</name><email>meera@example.com</email><age>19</age></student>
+</students>

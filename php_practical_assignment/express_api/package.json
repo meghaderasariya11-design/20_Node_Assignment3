@@ -1,0 +1,8 @@
+{
+  "name": "php-practical-express-api",
+  "version": "1.0.0",
+  "description": "Small Express REST API example for PHP practical",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
